@@ -12,17 +12,6 @@
 [![Blockchain Certified](https://img.shields.io/badge/Blockchain-Certified%20Technology-orange?style=for-the-badge)](https://www.ibm.com/blockchain)
 [![AI & ML Certified](https://img.shields.io/badge/AI%20%26%20ML-Certified%20Specialist-purple?style=for-the-badge)](https://www.coursera.org/specializations/machine-learning-ai)
 [![Cybersecurity Certified](https://img.shields.io/badge/Cybersecurity-Certified%20Professional-red?style=for-the-badge)](https://www.isc2.org/)
-[![Data Science Certified](https://img.shields.io/badge/Data%20Science-Certified%20Analyst-blue?style=for-the-badge)](https://www.datasciencecertification.org/)
-[![IoT Certified](https://img.shields.io/badge/IoT-Certified%20Developer-lightblue?style=for-the-badge)](https://www.iotcertification.org/)
-[![5G Certified](https://img.shields.io/badge/5G-Certified%20Network%20Expert-orange?style=for-the-badge)](https://www.5gcertification.org/)
-[![Digital Transformation Certified](https://img.shields.io/badge/Digital%20Transformation-Certified%20Leader-green?style=for-the-badge)](https://www.digitaltransformationcertification.org/)
-[![Sustainability Certified](https://img.shields.io/badge/Sustainability-Certified%20Practitioner-yellow?style=for-the-badge)](https://www.sustainabilitycertification.org/)
-[![Quantum Research Certified](https://img.shields.io/badge/Quantum%20Research-Certified%20Researcher-blue?style=for-the-badge)](https://www.quantumresearch.org/)
-[![Augmented Reality Certified](https://img.shields.io/badge/Augmented%20Reality-Certified%20Developer-green?style=for-the-badge)](https://www.arcertification.org/)
-[![Virtual Reality Certified](https://img.shields.io/badge/Virtual%20Reality-Certified%20Expert-purple?style=for-the-badge)](https://www.vrcertification.org/)
-[![Edge Computing Certified](https://img.shields.io/badge/Edge%20Computing-Certified%20Specialist-orange?style=for-the-badge)](https://www.edgecomputingcertification.org/)
-[![DevOps Certified](https://img.shields.io/badge/DevOps-Certified%20Practitioner-lightblue?style=for-the-badge)](https://www.devopsinstitute.com/certifications/)
-
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumVerse-Nexus">Quantum Verse Nexus ( QVN ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

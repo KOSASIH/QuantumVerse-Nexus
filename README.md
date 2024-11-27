@@ -17,6 +17,16 @@
 [![5G Certified](https://img.shields.io/badge/5G-Certified%20Network%20Expert-orange?style=for-the-badge)](https://www.5gcertification.org/)
 [![Digital Transformation Certified](https://img.shields.io/badge/Digital%20Transformation-Certified%20Leader-green?style=for-the-badge)](https://www.digitaltransformationcertification.org/)
 [![Sustainability Certified](https://img.shields.io/badge/Sustainability-Certified%20Practitioner-yellow?style=for-the-badge)](https://www.sustainabilitycertification.org/)
+[![Quantum Research Certified](https://img.shields.io/badge/Quantum%20Research-Certified%20Researcher-blue?style=for-the-badge)](https://www.quantumresearch.org/)
+[![Augmented Reality Certified](https://img.shields.io/badge/Augmented%20Reality-Certified%20Developer-green?style=for-the-badge)](https://www.arcertification.org/)
+[![Virtual Reality Certified](https://img.shields.io/badge/Virtual%20Reality-Certified%20Expert-purple?style=for-the-badge)](https://www.vrcertification.org/)
+[![Edge Computing Certified](https://img.shields.io/badge/Edge%20Computing-Certified%20Specialist-orange?style=for-the-badge)](https://www.edgecomputingcertification.org/)
+[![DevOps Certified](https://img.shields.io/badge/DevOps-Certified%20Practitioner-lightblue?style=for-the-badge)](https://www.devopsinstitute.com/certifications/)
+[![Cloud Computing Certified](https://img.shields.io/badge/Cloud%20Computing-Certified%20Architect-darkgreen?style=for-the-badge)](https://www.cloudcertification.org/)
+[![Data Privacy Certified](https://img.shields.io/badge/Data%20Privacy-Certified%20Professional-red?style=for-the-badge)](https://www.dataprivacycertification.org/)
+[![Smart Cities Certified](https://img.shields.io/badge/Smart%20Cities-Certified%20Planner-yellow?style=for-the-badge)](https://www.smartcitiescertification.org/)
+[![FinTech Certified](https://img.shields.io/badge/FinTech-Certified%20Innovator-blue?style=for-the-badge)](https://www.fintechcertification.org/)
+[![Ethical Hacking Certified](https://img.shields.io/badge/Ethical%20Hacking-Certified%20Hacker-orange?style=for-the-badge)](https://www.eccouncil.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/QuantumVerse-Nexus">Quantum Verse Nexus ( QVN ) </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 

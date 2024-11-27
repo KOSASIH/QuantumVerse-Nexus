@@ -48,7 +48,8 @@ QuantumVerse-Nexus/
 │   │   ├── prediction_market.py       # Decentralized prediction market for forecasting events
 │   │   ├── social_network.py          # Decentralized social network with content monetization
 │   │   ├── NFT_marketplace.py         # Specialized marketplace for NFTs with minting and trading features
-│   │   └── staking_platform.py        # Decentralized staking platform for earning rewards
+│   │   ├── staking_platform.py        # Decentralized staking platform for earning rewards
+│   │   └── decentralized_banking.py   # Decentralized Autonomous Banking (DAB) framework for lending, borrowing, and transactions
 │   │
 │   ├── ai/
 │   │   ├── analytics.py              # AI-driven analytics for transaction patterns

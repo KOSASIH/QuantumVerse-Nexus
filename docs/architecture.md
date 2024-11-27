@@ -14,4 +14,4 @@ The QuantumVerse-Nexus architecture is designed to leverage the capabilities of 
 
 ## Diagram
 
-![Architecture Diagram](QuantumVerse-Nexus-diagram.peg)
+![Architecture Diagram](QuantumVerse-Nexus-diagram.jpeg)
